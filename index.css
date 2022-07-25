@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(46 93 96);
+    
+   background: url(https://image.shutterstock.com/image-vector/fun-anime-manga-style-cartoon-600w-105000611.jpg) ,#413b06;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-position-y: 130px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+}
+h1{
+    margin-top: 100px;
+    margin-bottom: 0;
+    font-size: 6rem;
+}
+button{
+    height: 120px;
+    width: 120px;
+    margin: 150px 15px;
+    border: 5px solid #611c10;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #cec150;
+    border-radius: 10px;
+}
+.shadow{
+    box-shadow: 0 5px 4px rgb(238, 181, 181);
+    opacity: 0.5;
+}
+.w {
+    background-image: url("drumimage/tom1.png");
+  }
+  
+  .a {
+    background-image: url("drumimage/tom2.png");
+  }
+  
+  .s {
+    background-image: url("drumimage/tom3.png");
+  }
+  
+  .d {
+    background-image: url("drumimage/tom4.png");
+  }
+  
+  .j {
+    background-image: url("drumimage/snare.png");
+  }
+  
+  .k {
+    background-image: url("drumimage/crash.png");
+  }
+  
+  .l {
+    background-image: url("drumimage/kick.png");
+  }
+  footer{
+    font-weight: lighter;
+    font-size: large;
+    color: red;
+  }
